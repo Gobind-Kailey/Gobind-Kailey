@@ -4,7 +4,19 @@
 
 My name is Gobind Kailey, and I'm a second-year Computer Engineering student at McMaster University.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+Languages: 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,C,C++,arudino,Java)](https://skillicons.dev)
+
+Tools: 
+[![My Skills](https://skillicons.dev/icons?i=git,github,obsidian,notion)](https://skillicons.dev)
+
+IDEs:
+[![My Skills](https://skillicons.dev/icons?i=Pycharm,vscode)](https://skillicons.dev)
+
+Reach ME:
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/gobind-kailey)
+
+
 <!--
 **Gobind-Kailey/Gobind-Kailey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
