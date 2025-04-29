@@ -4,17 +4,19 @@
 
 My name is Gobind Kailey, and I'm a second-year Computer Engineering student at McMaster University.
 
-Languages: 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,C,C++,arudino,Java)](https://skillicons.dev)
+---
 
-Tools: 
+### Languages  
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,js,html,css,arduino,java)](https://skillicons.dev)
+
+### Tools  
 [![My Skills](https://skillicons.dev/icons?i=git,github,obsidian,notion)](https://skillicons.dev)
 
-IDEs:
-[![My Skills](https://skillicons.dev/icons?i=Pycharm,vscode)](https://skillicons.dev)
+### IDEs  
+[![My Skills](https://skillicons.dev/icons?i=pycharm,vscode)](https://skillicons.dev)
 
-Reach ME:
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/gobind-kailey)
+### Reach Me  
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gobind-kailey)
 
 
 <!--
