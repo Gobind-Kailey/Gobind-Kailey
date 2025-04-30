@@ -18,7 +18,7 @@ My name is Gobind Kailey, and I'm a second-year Computer Engineering student at 
 ---
 
 ### Languages  
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,js,html,css,arduino,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,js,html,css,arduino,java,matlab)](https://skillicons.dev)
 
 ### Tools  
 [![My Skills](https://skillicons.dev/icons?i=git,github,obsidian,notion)](https://skillicons.dev)
