@@ -10,8 +10,9 @@ My name is Gobind Kailey, and I'm a Third-year Computer Engineering student at M
 ### What am I currently working on? 🖥️
 <small>
 
-- Creating a personal portfolio website using JS, React, HTML/CSS
-- Completing C++ Udemy courses  
+- Creating a personal portfolio website
+- Completing C++ Udemy courses
+- Completing FPGA Projects 
 
 </small>
 
