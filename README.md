@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-My name is Gobind Kailey, and I'm a second-year Computer Engineering student at McMaster University.
+My name is Gobind Kailey, and I'm a Third-year Computer Engineering student at McMaster University.
 
 ---
 
