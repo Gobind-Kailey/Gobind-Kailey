@@ -10,7 +10,7 @@ My name is Gobind Kailey, and I'm a Third-year Computer Engineering student at M
 ### What am I currently working on? 🖥️
 <small>
 
-- Completing FPGA Projects
+- Completing FPGA Project
 - STM32 PCB
 - Completing C++ Udemy courses
 
