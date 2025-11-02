@@ -11,7 +11,7 @@ My name is Gobind Kailey, and I'm a Third-year Computer Engineering student at M
 <small>
 
 - Completing FPGA Project
-- STM32 PCB
+- 3DQ5 Final Project 
 - Completing C++ Udemy courses
 
 </small>
