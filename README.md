@@ -11,8 +11,8 @@ My name is Gobind Kailey, and I'm a Third-year Computer Engineering student at M
 <small>
   
 - 3DQ5 Final Project 
-- Completing FPGA Project
-- Completing C++ Udemy course
+- Mars Rover V3
+- Personal Projects
 
 </small>
 
