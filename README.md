@@ -10,9 +10,8 @@ My name is Gobind Kailey, and I'm a Third-year Computer Engineering student at M
 ### What am I currently working on? 🖥️
 <small>
   
-- 3DQ5 Final Project 
+- 3DY4 Final Project 
 - Mars Rover V3
-- Personal Projects
 
 </small>
 
